@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="calitv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_CaliTV.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Colombia", CaliTV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Teleislas_2012.svg/revision/latest?cb=20210505200247&path-prefix=es" group-title="Colombia", Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Colombia", Telepacifico
+https://mdstrm.com/live-stream/57d1a220dbbfc7f86c6bb7b3.m3u8
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Logo_Avivamiento_2012_only.png/revision/latest?cb=20210502004704&path-prefix=es" group-title="Colombia", Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/960px-Se%C3%B1al_Institucional_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Colombia", Canal institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SeñalColombia.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/3840px-Se%C3%B1al_Colombia_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Colombia", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lakalle.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/La_Kalle_Colombia_2025_logo.svg/3840px-La_Kalle_Colombia_2025_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Colombia", La kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Colombia", Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
