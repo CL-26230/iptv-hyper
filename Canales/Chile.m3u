@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tvr.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/TVR_Chile_%282025%29.svg/3840px-TVR_Chile_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Chile", TVR
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
